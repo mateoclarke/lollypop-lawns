@@ -1,0 +1,33 @@
+.wrapper {
+    padding: 100px 40px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.header {
+    border-bottom: 1px solid #eee;
+    text-align: center;
+    position: relative;
+}
+
+.logo {
+    display: inline-block;
+    width: 100%;
+    max-width: 320px;
+    padding: 0 5%;
+    margin-bottom: 20px;
+}
+
+.nav {
+    list-style: none;
+    display: inline-block;
+    width: 100%;
+    margin: 0;
+}
+
+.nav-item {
+    float: left;
+    display: inline-block;
+    width: 33.333%;
+    padding: 20px 5%;
+}
